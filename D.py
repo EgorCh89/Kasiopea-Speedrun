@@ -34,6 +34,8 @@ def ponozky(data):
 
 def precti_vstup(input, output):
     pocet_problemu = int(input.readline())
+    wad
+    
 
     for _ in range(pocet_problemu):
         pocet = int(input.readline())
